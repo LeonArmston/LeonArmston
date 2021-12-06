@@ -7,6 +7,8 @@ I specialise in helping clients match the best tool for the job from the Microso
 I’m passionate about learning and sharing knowledge with others. I enjoy contributing to the [PnP (Patterns & Practices)](https://pnp.github.io/) community especially [PnP PowerShell](https://pnp.github.io/powershell/).
 
 📫 How to reach me: ...
-- [Twitter](https://twitter.com/LeonArmston)
-- [LinkedIn](https://linkedin.com/in/leon-armston)
-- [Blog](https://www.leonarmston.com)
+- <a href="https://leonarmston.com"><img src="https://img.shields.io/badge/Blog-leonarmston.com-%230b56a4" alt="Twitter"></a>
+- <a href="https://twitter.com/intent/follow?screen_name=leonarmston"><img src="https://img.shields.io/twitter/follow/leonarmston?style=social" alt="Twitter"></a>
+- <a href="https://www.linkedin.com/in/leonarmston"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+- <a href="https://github.com/leonarmston"><img src="https://img.shields.io/github/followers/leonarmston?label=leonarmston&style=social" alt="GitHub"></a>
+
