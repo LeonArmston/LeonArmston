@@ -13,4 +13,3 @@ I’m passionate about learning and sharing knowledge with others. I enjoy contr
 - <a href="https://www.linkedin.com/in/leonarmston"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 - <a href="https://github.com/leonarmston"><img src="https://img.shields.io/github/followers/leonarmston?label=leonarmston&style=social" alt="GitHub"></a>
 
-https://mvp.microsoft.com/en-us/PublicProfile/5004913
