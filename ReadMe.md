@@ -8,7 +8,7 @@ I’m passionate about learning and sharing knowledge with others. I enjoy contr
 
 📫 How to reach me: ...
 - <a href="https://leonarmston.com"><img src="https://img.shields.io/badge/Blog-leonarmston.com-%230b56a4" alt="Twitter"></a>
-- <a href="https://mvp.microsoft.com/en-us/PublicProfile/5004913"><img src="https://img.shields.io/badge/Microsoft%20MVP-M365%20Apps%20%26%20Services-blue" alt="Twitter"></a>
+- <a href="https://mvp.microsoft.com/en-us/PublicProfile/5004913"><img src="https://img.shields.io/badge/Microsoft%20MVP-M36-blue" alt="Microsoft MVP - M365"></a>
 - <a href="https://twitter.com/intent/follow?screen_name=leonarmston"><img src="https://img.shields.io/twitter/follow/leonarmston?style=social" alt="Twitter"></a>
 - <a href="https://www.linkedin.com/in/leonarmston"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 - <a href="https://github.com/leonarmston"><img src="https://img.shields.io/github/followers/leonarmston?label=leonarmston&style=social" alt="GitHub"></a>
